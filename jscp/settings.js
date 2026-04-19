@@ -34,7 +34,7 @@ let settings = {
         // --- Lembar 3 (data-page="2") ---
         { 
             image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
-            content: 'Selama Kamu tersenyum, aku bahagia. Bahagia terus ya, sayanggg.' 
+            content: 'Aku bahagia jika kamu bahagia. Bahagia terus ya, sayang.' 
         }
     ],
     enableBook: true,
@@ -377,7 +377,7 @@ function initializeDefaultSettings() {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b5.jpeg', // Menggantikan tbutvj.png (Index 4)
-                content: 'Selama Kamu tersenyum, aku bahagia. Bahagia terus ya, sayanggg.' 
+                content: 'Aku bahagia jika kamu bahagia. Bahagia terus ya, sayang.' 
             }
         ]
     };
